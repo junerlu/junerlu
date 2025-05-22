@@ -1,7 +1,7 @@
 ## Hi, I'm Juner Lu 👋
 
 - 🔭 I’m currently studying at University of Wisconsin-Madison.
-- 📫 How to reach me: [Linkedin - Juner Lu](www.linkedin.com/in/juner-lu-8232a7308)
+- 📫 How to reach me: [Linkedin - Juner Lu](https://linkedin.com/in/juner-lu-8232a7308)
 - 😄 Pronouns: He\Him
 - ⚡ Fun fact: I was a percussionist with ten years of performance experience in my school’s Chinese Folk Orchestra.
 
