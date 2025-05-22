@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Juner Lu 👋
+
+- 🔭 I’m currently studying at University of Wisconsin-Madison.
+- 📫 How to reach me: [Linkedin - Juner Lu](www.linkedin.com/in/juner-lu-8232a7308)
+- 😄 Pronouns: He\Him
+- ⚡ Fun fact: I was a percussionist with ten years of performance experience in my school’s Chinese Folk Orchestra.
 
 <!--
 **junerlu/junerlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
